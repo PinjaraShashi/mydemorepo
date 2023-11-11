@@ -1,0 +1,14 @@
+hi
+ci cd cd differences chudndi
+hemachandra sekhar Kaspa11:08 AM
+rani and lokesh start cheddam discussion
+RANI UPPELLI11:08 AM
+okay
+hemachandra sekhar Kaspa11:09 AM
+any who wants to join.,can join
+Priyanka11:20 AM
+continuous integration is a devops software development practise where developers merge their code changes into a central repository ,after which automated builds and tests are run
+Priyanka11:22 AM
+continuous delivery is the process of automating build,test,configuration and deployment from a build to a production environment.
+Priyanka11:23 AM
+continuous deployment is a strategy in software development where code changes to an application are released automatically into the production environment
